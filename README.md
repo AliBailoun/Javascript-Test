@@ -6,4 +6,4 @@ file:///C:/Users/aliba/code/bootcamp/homework/Javascript-Test/Resources/html/ind
 ### SSH link to the github repository:
 git@github.com:AliBailoun/Javascript-Test.git
 ### Link to a screenshot of the website:
-Screenshot 2022-10-24 181028.png
+"C:\Users\aliba\OneDrive\Pictures\Screenshots\Screenshot 2022-10-24 181028.png"
