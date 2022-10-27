@@ -1,6 +1,7 @@
-import gutil from "../../libs/gutil.js";
-import eutil from "../../libs/eutil.js";
-import { QuizBuilder, Question } from "../../libs/quizbuilder.js";
+import gutil from "C:\Users\aliba\code\bootcamp\homework\Javascript-Test\gutil.js";
+import eutil from "C:\Users\aliba\code\bootcamp\homework\Javascript-Test\eutil.js";
+import { QuizBuilder, Question } from "C:\Users\aliba\code\bootcamp\homework\Javascript-Test\quizbuilder.js";
+import event from "C:\Users\aliba\code\bootcamp\homework\Javascript-Test\event.js";
 
 // enable debug features like prefixed print messages
 gutil.enableDebugMode();
